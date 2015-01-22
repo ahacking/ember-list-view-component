@@ -11,7 +11,7 @@ As a quick note for `ember-cli` users, you can just add this to your project's `
 ```js
 {
   "dependencies": {
-    "ember-cli-list-view": "0.0.4"
+    "ember-cli-list-view": "ahacking/ember-cli-list-view#0.0.6-alpha.1"
   }
 }
 ```
