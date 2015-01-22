@@ -1,8 +1,9 @@
 {
   "name": "ember-cli-list-view",
-  "version": "0.0.4",
+  "version": "0.0.6.alpha.1+e726084",
   "authors": [
     "mysterlune <mysterlune@gmail.com>"
+    "ahacking <ahacking@gmail.com>"
   ],
   "description": "Bower repository for Ember.ListView",
   "main": [
@@ -22,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "~1.8.0"
+    "ember": "~1.9.0"
   }
 }
